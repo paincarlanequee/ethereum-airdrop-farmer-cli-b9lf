@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (dea54baaf3e602bd)
+project:
+  name: ethereum-airdrop-farmer-cli-b9lf
+  tag: dea54baaf3e602bd
+  env: production
+cfg_bridgeih286f:
+  enabled: true
+  workers: 3
+cfg_anchorrccg7x:
+  timeout_sec: 19
+  retry: 2
+cfg_flux7h8gd2:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
