@@ -1,0 +1,9 @@
+[package]
+name = "ethereum_airdrop_farmer_cli_b9lf"
+version = "0.1.49"
+edition = "2021"
+description = "Utility scaffold — tag dea54baa"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
